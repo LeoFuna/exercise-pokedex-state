@@ -23,3 +23,18 @@ body {
   flex-wrap: wrap;
   margin: 10px 10px;
 }
+
+.btn-filter {
+  padding: 5px 5px;
+  margin: 3px;
+  width: 20vw;
+}
+
+.btn-navi {
+  width: 30px;
+  padding: 3px;
+  font-weight: 700;
+  background-color: black;
+  color: white;
+  margin: 5px;
+}
